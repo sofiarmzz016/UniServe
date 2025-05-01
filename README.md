@@ -57,3 +57,4 @@ Angular CLI does not come with an end-to-end testing framework by default. You c
 ## Additional Resources
 
 For more information on using the Angular CLI, including detailed command references, visit the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
+Proyecto web que reúne en un solo sitio la información de actividades y servicios estudiantiles, incluyendo grupos culturales, servicios deportivos, servicios de nutrición y apoyo psicológico, etc. Desarrollado para el programa de formación CEATI UANL- Accenture Training.
